@@ -14,4 +14,5 @@ int main(void)
         cout << j << "*" << i << "=" << i*j << endl;
     }
     return 0;
+    
 }
