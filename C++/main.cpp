@@ -1,3 +1,4 @@
+//随便加点什么
 #include <iostream>  //c++标准输入输出头文件
 using namespace std; //使用此命令可以不用加" std:: "
 
