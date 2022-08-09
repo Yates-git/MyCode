@@ -1,4 +1,4 @@
-//随便加点什么,我也加
+//打印九九乘法表的循环
 #include <iostream>  //c++标准输入输出头文件
 using namespace std; //使用此命令可以不用加" std:: "
 
